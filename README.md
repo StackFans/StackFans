@@ -8,11 +8,11 @@
 
 
 
-<h1 align="center">StackFans</h1>
+<!-- <h1 align="center">StackFans</h1>
 
 <p align="center">
   <strong>Decentralized Content Monetization Platform</strong>
-</p>
+</p> -->
 
 ---
 
