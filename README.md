@@ -5,8 +5,11 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://via.placeholder.com/150.png?text=StackFans+Logo" alt="StackFans Logo" width="120" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_toxzzjtoxzzjtoxz" src="https://github.com/user-attachments/assets/cd5867b5-9d47-4791-b09e-ae4d6f788ba4" />
+  
 </p>
+
+
 
 <h1 align="center">StackFans</h1>
 
